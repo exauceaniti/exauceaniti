@@ -1,10 +1,9 @@
 # Exauce Aniti
 
-**Software Engineer · Backend & Full-Stack Development**
+**Ingénieur Logiciel · Backend & Full-Stack Development**
 
-Je conçois et développe des systèmes logiciels fiables, maintenables et évolutifs.
-Mon approche couvre l'ensemble du cycle de développement : 
-de la conception architecturale à l'implémentation, en passant par l'optimisation, la livraison et la maintenance.
+Ingénieur Civil spécialisé dans la conception de systèmes logiciels structurés, fiables et durables.
+Je couvre l'ensemble du cycle de développement : de la conception architecturale à l'implémentation, en passant par l'optimisation, la livraison et la maintenance.
 
 ---
 
@@ -49,5 +48,3 @@ de la conception architecturale à l'implémentation, en passant par l'optimisat
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
