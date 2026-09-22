@@ -1,27 +1,53 @@
 # Exauce Aniti
 
-### 💡 Architecte de Solutions Robustes & Adepte du Clean Code
+**Software Engineer · Backend & Full-Stack Development**
 
-Développeur basé dans la conception et l'implémentation de systèmes logiciels fiables, performants et maintenables. je suis engagement envers les principes d'architecture logicielle garantit des applications solides et évolutives.
-
----
-
-## Compétences Techniques
-
-| Catégorie      | Compétences Clés                                                                                                                                                                                                                                                                                                            |
-| :------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Langages**   | ![PHP](https://img.shields.io/badge/PHP-8.x-blue?style=flat-square&logo=php&logoColor=white)                                                                                                                                                                                                                                |
-| **Frameworks** | _En développement... (Ex: Symfony, Laravel si applicable)_                                                                                                                                                                                                                                                                  |
-| **Databases**  | ![MySQL](https://img.shields.io/badge/MySQL-DB-blueviolet?style=flat-square&logo=mysql&logoColor=white)                                                                                                                                                                                                                     |
-| **Concepts**   | ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Oui-important?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID%20Principles-Appliqués-success?style=flat-square) ![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-Utilisé-yellowgreen?style=flat-square)       |
-| **Outils**     | ![Git](https://img.shields.io/badge/Git-GitFlow-red?style=flat-square&logo=git&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-PHP%20Dep-orange?style=flat-square&logo=composer&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-CLI-lightgrey?style=flat-square&logo=linux&logoColor=white) |
+Je conçois et développe des systèmes logiciels fiables, maintenables et évolutifs.
+Mon approche couvre l'ensemble du cycle de développement : 
+de la conception architecturale à l'implémentation, en passant par l'optimisation, la livraison et la maintenance.
 
 ---
 
-## 🌐 Connectons-nous
+### Stack Technique
 
-- **LinkedIn :** [exauceaniti](https://www.linkedin.com/in/ton-lien)
-- **Email :** exauceaniti@gmail.com
-- **Localisation :** République Démocratique du Congo 🇨🇩
+<p align="center">
+  <strong>Backend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=php,symfony,mysql,mariadb" />
+</p>
+
+<p align="center">
+  <strong>Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,sass" />
+</p>
+
+<p align="center">
+  <strong>Environnement</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+</p>
+
+---
+
+### Engineering Practices
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0D1117?style=for-the-badge&logo=buffer&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Clean%20Code-0D1117?style=for-the-badge&logo=codefactor&logoColor=44CC11" />
+  <img src="https://img.shields.io/badge/SOLID%20Principles-0D1117?style=for-the-badge&logo=refactoring&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=A78BFA" />
+</p>
+
+---
+
+### Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/exauce-aniti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:exauceaniti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
